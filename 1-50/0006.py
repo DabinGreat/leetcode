@@ -10,7 +10,7 @@
 # L   C   I   R
 # E T O E S I I G
 # E   D   H   N
-# 之后，你的输出需要从左往右逐行读 取，产生出一个新的字符串，比如："LCIRETOESIIGEDHN"。
+# 之后，你的输出需要从左往右逐行读取，产生出一个新的字符串，比如："LCIRETOESIIGEDHN"。
 
 
 class Solution:
