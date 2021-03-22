@@ -1,4 +1,4 @@
 # leetcode
 leetcode
 
-## init
+one day one question
